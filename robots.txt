@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mamkramer.github.io/academic/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MAMK | Academic",
+    "description": "",
+    "home_page_url": "https://mamkramer.github.io/academic",
+    "feed_url": "https://mamkramer.github.io/academic/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dr. Mark A.M. Kramer"
+    },
+    "items": [
+    ]
+}
